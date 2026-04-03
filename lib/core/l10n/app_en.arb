@@ -1,0 +1,7 @@
+{
+  "@@locale": "en",
+  "appName": "Ksatria POS",
+  "@appName": {
+    "description": "appName"
+  }
+}
