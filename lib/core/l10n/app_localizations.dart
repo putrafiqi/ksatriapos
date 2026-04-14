@@ -92,7 +92,7 @@ abstract class AppLocalizations {
   /// A list of this localizations delegate's supported locales.
   static const List<Locale> supportedLocales = <Locale>[Locale('en'), Locale('id')];
 
-  /// appName
+  /// The name of the application
   ///
   /// In en, this message translates to:
   /// **'Ksatria POS'**
